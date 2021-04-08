@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ИСУЖТ</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link href="css/uicons-regular-straight.css" rel="stylesheet">
+  </head>
+  <body>
+  <div class="wrap">
+    <div id="collapse-menu" class="menu">
+      <img class="logo" src="img/logo.svg" width="166" height="45">
+      <ul class="menu-list">
+        <div class="menu-item">
+          <span class="fi fi-rs-menu-burger icon-menu"></span>
+          Нормирование
+          <span class="fi fi-rs-angle-small-down icon-arrow"></span>
+        </div>
+        <ul class="collapse-list">
+          <li id="list-uch" class="collapse-list-item">Участки</li>
+          <li id="list-depo" class="collapse-list-item">Депо</li>
+          <li id="list-pers" class="collapse-list-item">Процентное соотношение локомотивов</li>
+        </ul>
+        <li class="menu-item">
+          <span class="fi fi-rs-settings-sliders icon-menu"></span>
+          Регулирование
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-disk icon-menu"></span>
+          Отчёты
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-calendar icon-menu"></span>
+          Планирование
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-grid icon-menu"></span>
+          Моделирование
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-list icon-menu"></span>
+          Приказы
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-file icon-menu"></span>
+          План содержания ЛБ
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-document icon-menu"></span>
+          Пофамильный список ЛБ
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-layers icon-menu"></span>
+          План подвязки ЛБ
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+        <li class="menu-item">
+          <span class="fi fi-rs-eye icon-menu"></span>
+          Мониторинг ЛБ
+          <span class="fi fi-rs-angle-small-up icon-arrow"></span>
+        </li>
+      </ul>
+      <div class="slide-button">
+        <span class="fi fi-rs-angle-left"></span>
+      </div>
+    </div>
+    <div class="data-body">
+      <div class="filter">
+        <div class="filter-header">
+          <span class="fi fi-rs-settings-sliders"></span>
+          Фильтры
+          <span class="fi fi-rs-angle-small-down"></span>
+        </div>
+        <div class="filter-body">
+          <div class="fields">
+            <label for="date">Дата:</label>
+            <input id="date" type="date">
+            <!--          <span class="fi fi-rs-calendar"></span>-->
+            <label for="drl">Район управление ДРЛ:</label>
+            <select name="" id="drl">
+              <option value="1">СДРЛ Восточный полигон</option>
+            </select>
+          </div>
+          <div class="buttons">
+            <button class="btn">Пересчитать</button>
+            <button class="btn">Сохранить</button>
+            <button class="btn">Отменить</button>
+          </div>
+        </div>
+      </div>
+      <div class="data-header">
+        <h3><span class="fi fi-rs-menu-burger"></span>Оперативное нормирование</h3>
+        <a class="excel" href="">Выгрузить в Excel</a>
+      </div>
+      <div class="data-table">
+        <div class="uch">
+          <table border="1">
+            <thead>
+            <tr>
+              <td>Тяговый полигон</td>
+              <td rowspan="3">Длина (L,км)</td>
+              <td rowspan="3">Коэф. Кп.гр.э</td>
+              <td rowspan="3">Коэф. Кп.п.э.</td>
+              <td rowspan="3">Кол-во поездов N(max)</td>
+              <td rowspan="3">В т.ч. тяжело весных N (2-ая тяга СМЕТ)</td>
+              <td rowspan="3">Окна, час</td>
+              <td colspan="15">Потребность локомотивов</td>
+            </tr>
+            <tr>
+              <td rowspan="2">Наименование расчетных участков</td>
+              <td colspan="3">Грузовое движение</td>
+              <td colspan="2">ПВД</td>
+              <td colspan="3">ТОЛКАЧИ</td>
+              <td colspan="3">ОПЕР, РД</td>
+              <td colspan="3">ВСЕГО</td>
+              <td>ИТОГО</td>
+            </tr>
+            <tr>
+              <td>Мт (4-х)</td>
+              <td>Мт (3-х)</td>
+              <td>Мт (2-х)</td>
+              <td>Мт (3-х)</td>
+              <td>Мт (2-х)</td>
+              <td>Мт (4-х)</td>
+              <td>Мт (3-х)</td>
+              <td>Мт (2-х)</td>
+              <td>Мт (4-х)</td>
+              <td>Мт (3-х)</td>
+              <td>Мт (2-х)</td>
+              <td>Мт (4-х)</td>
+              <td>Мт (3-х)</td>
+              <td>Мт (2-х)</td>
+              <td>Мт</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td colspan="23" class="cell-bold">МАРИИНСК - ЮРТЫ</td>
+            </tr>
+            <tr>
+              <td>МАРИИНСК - БОГОТОЛ</td>
+              <td>133</td>
+              <td>0.652</td>
+              <td>0.781</td>
+              <td>64</td>
+              <td>11</td>
+              <td>6</td>
+              <td>8.59</td>
+              <td>24.83</td>
+              <td>16.56</td>
+              <td>0</td>
+              <td>1</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>0</td>
+              <td>8.59</td>
+              <td>24.83</td>
+              <td>17.56</td>
+              <td>50.98</td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="depo">
+          <table border="1">
+            <thead>
+            <tr>
+              <td rowspan="2">№</td>
+              <td rowspan="2">Депо приписки локомотивов</td>
+              <td colspan="4">Потребное количество эксплуатируемого парка локомотивов на следующие сутки</td>
+            </tr>
+            <tr>
+              <td>Т(4-х), т. ед.</td>
+              <td>Т(3-х), т.ед.</td>
+              <td>Л (2-х), т.ед.</td>
+              <td>Всего, т.ед.</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td></td>
+              <td class="cell-bold">ЭЛЕКТРОВОЗЫ</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>ТЧЭ-1 БОГОТОЛ</td>
+              <td class="cell-yellow">0.652</td>
+              <td>0.781</td>
+              <td>64</td>
+              <td>11</td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="pers">
+          <table border="1">
+            <thead>
+            <tr>
+              <td rowspan="3">№</td>
+              <td rowspan="3">Индекс</td>
+              <td rowspan="3">Масса Длина</td>
+              <td rowspan="3">Последняя операция</td>
+              <td colspan="4">Прибытие</td>
+              <td colspan="2">Отправление</td>
+            </tr>
+            <tr>
+              <td rowspan="2">Время</td>
+              <td colspan="3">Локомотив</td>
+              <td colspan="2">Бригада</td>
+            </tr>
+            <tr>
+              <td>Серия</td>
+              <td>Номер</td>
+              <td>Депо</td>
+              <td>Дело приписки</td>
+              <td>Машинист</td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <td></td>
+              <td class="cell-bold">ПЛАН ПО СТАНЦИИ ЗИМА</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td class="cell-color-orange">2186</td>
+              <td class="cell-color-orange">8879-712-9795</td>
+              <td>2672/38</td>
+              <td class="cell-color-orange">КАЙТУН ПРОС 07.04.21/07:24 Вл80Р 1830А (ТЧЭ- КРАС) ПАВЛОВ 9202-000616 (ТЧЭ-2 В-СИБ)</td>
+              <td>08:06  07.04.2021</td>
+              <td class="cell-color-orange">ВЛ85</td>
+              <td class="cell-color-orange">186</td>
+              <td class="cell-color-orange">ТЧЭ-2 В-СИб</td>
+              <td></td>
+              <td></td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <script src="script/script.js"></script>
+  </body>
+</html>
