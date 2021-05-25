@@ -49,6 +49,7 @@
       <workItem from="1620821765962" duration="8000" />
       <workItem from="1620993941350" duration="88000" />
       <workItem from="1621544799946" duration="73000" />
+      <workItem from="1621952584195" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="Сборка 20210427">
       <created>1619532070046</created>
@@ -78,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621544824166</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Сборка 20210525">
+      <created>1621952603827</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621952603827</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +110,7 @@
     <MESSAGE value="Сборка 20210511" />
     <MESSAGE value="Сборка 20210514" />
     <MESSAGE value="Сборка 20210520" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сборка 20210520" />
+    <MESSAGE value="Сборка 20210525" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сборка 20210525" />
   </component>
 </project>
