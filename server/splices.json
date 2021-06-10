@@ -20,7 +20,7 @@
             "plan_loco_tooltip": "Мин = 0; Макс = 0; Origin = 0; Approve_User =  ",
             "plan_loco_top": 0,
             "plan_loco_bottom": 0,
-            "plan_train_half": 33.0,
+            "plan_train_half": 0,
             "plan_train_half_tooltip": "Мин = 15; Макс = 28; Origin = 33; Approve_User =  ",
             "plan_train_half_top": 28,
             "plan_train_half_bottom": 15,
