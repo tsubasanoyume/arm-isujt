@@ -42,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -71,6 +74,7 @@
       <workItem from="1624890599761" duration="81000" />
       <workItem from="1625035281515" duration="4000" />
       <workItem from="1625235909003" duration="208000" />
+      <workItem from="1625579838829" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="Сборка 20210427">
       <created>1619532070046</created>
@@ -205,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625235981755</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Сборка 20210702.">
+      <created>1625579894691</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1625579894691</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Сборка 20210706.">
+      <created>1625580029818</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1625580029818</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +258,7 @@
     <MESSAGE value="Some." />
     <MESSAGE value="Сборка 20210629." />
     <MESSAGE value="Сборка 20210702." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сборка 20210702." />
+    <MESSAGE value="Сборка 20210706." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сборка 20210706." />
   </component>
 </project>
