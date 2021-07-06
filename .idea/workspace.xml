@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb08f91a-8b62-46d3-8ef5-dcca3a6704c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb08f91a-8b62-46d3-8ef5-dcca3a6704c5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +42,6 @@
       </list>
     </option>
   </component>
-  <component name="ServiceViewManager">
-    <option name="showServicesTree" value="false" />
-  </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -75,6 +70,7 @@
       <workItem from="1624890264393" duration="274000" />
       <workItem from="1624890599761" duration="81000" />
       <workItem from="1625035281515" duration="4000" />
+      <workItem from="1625235909003" duration="208000" />
     </task>
     <task id="LOCAL-00001" summary="Сборка 20210427">
       <created>1619532070046</created>
@@ -195,7 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624981061960</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Сборка 20210629.">
+      <created>1625235933767</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1625235933767</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Сборка 20210702.">
+      <created>1625235981755</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1625235981755</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +239,7 @@
     <MESSAGE value="Сборка 20210628." />
     <MESSAGE value="Some." />
     <MESSAGE value="Сборка 20210629." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сборка 20210629." />
+    <MESSAGE value="Сборка 20210702." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сборка 20210702." />
   </component>
 </project>
