@@ -80,6 +80,8 @@
       <workItem from="1631730699370" duration="341000" />
       <workItem from="1631731684055" duration="91000" />
       <workItem from="1631777805080" duration="763000" />
+      <workItem from="1632152802216" duration="787000" />
+      <workItem from="1632215329459" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="Сборка 20210427">
       <created>1619532070046</created>
@@ -298,7 +300,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631777921841</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="delete">
+      <created>1632152829071</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1632152829071</updated>
+    </task>
+    <task id="LOCAL-00033" summary="20092021">
+      <created>1632152986684</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1632152986684</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,8 +352,9 @@
     <MESSAGE value="13082021" />
     <MESSAGE value="09092021" />
     <MESSAGE value="15092021" />
-    <MESSAGE value="delete" />
     <MESSAGE value="16092021" />
-    <option name="LAST_COMMIT_MESSAGE" value="16092021" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="20092021" />
+    <option name="LAST_COMMIT_MESSAGE" value="20092021" />
   </component>
 </project>
