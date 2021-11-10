@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb08f91a-8b62-46d3-8ef5-dcca3a6704c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb08f91a-8b62-46d3-8ef5-dcca3a6704c5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +96,7 @@
       <workItem from="1635950125155" duration="1228000" />
       <workItem from="1636437468357" duration="64000" />
       <workItem from="1636437623477" duration="6000" />
+      <workItem from="1636553188613" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="Сборка 20210427">
       <created>1619532070046</created>
@@ -428,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635950280912</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="delete">
+      <created>1636553213837</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1636553213837</updated>
+    </task>
+    <task id="LOCAL-00049" summary="10112021">
+      <created>1636553308011</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1636553308011</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Сборка 20210520" />
     <MESSAGE value="Сборка 20210525" />
     <MESSAGE value="Сборка 20210527" />
     <MESSAGE value="Сборка 20210608" />
@@ -471,8 +483,9 @@
     <MESSAGE value="22102021" />
     <MESSAGE value="27102021" />
     <MESSAGE value="29102021" />
-    <MESSAGE value="delete" />
     <MESSAGE value="03112021" />
-    <option name="LAST_COMMIT_MESSAGE" value="03112021" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="10112021" />
+    <option name="LAST_COMMIT_MESSAGE" value="10112021" />
   </component>
 </project>
