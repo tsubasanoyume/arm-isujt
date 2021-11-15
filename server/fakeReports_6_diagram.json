@@ -1,0 +1,712 @@
+{
+  "success": true,
+  "svg1": {
+    "96060": {
+      "name": "АРХАРА",
+      "norm": "1.85Ф",
+      "fact": 1.15,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=АРХАРА Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 1.15,
+      "tg": 1,
+      "rezCD": 5,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 5,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=АРХАРА Э&rvec_id=690238291347,730249364908,730249398159,730249594395,730249130672&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "94470": {
+      "name": "БОРЗЯ",
+      "norm": "6.05Ф",
+      "fact": 3.13,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=БОРЗЯ Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 3.05,
+      "tg": 1,
+      "rezCD": 3,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 3,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=БОРЗЯ Э&rvec_id=730249538823,730249542478,730249601752&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "93000": {
+      "name": "ИРКУТСК-СОРТ",
+      "norm": "5.68Ф",
+      "fact": 4.13,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ИРКУТСК-СОРТ Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 3.5,
+      "tg": 1,
+      "rezCD": 28,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 28,
+        "nep": 7,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ИРКУТСК-СОРТ Э&rvec_id=690238290926,690238281471,730249539034,730249564645,730249376899,730249561370,730249557749,690238284265,730249556088,730249333201,690238273170,690238273165,690238286340,690238276664,690238276693,690238276685,730249562089,730249596544,690238274191,690238278694,730249591935,690238283093,730249404424,730249578796,730249579859,730249581018,690238284901,730249584127&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ИРКУТСК-СОРТ Э&rvec_id=730249384574,690238212436,690238255277,690237867719,730248999107,730249299063,690237755951&report-filter-param=2"
+      }
+    },
+    "94310": {
+      "name": "КАРЫМСКАЯ",
+      "norm": "4.67Ф",
+      "fact": 5.13,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=КАРЫМСКАЯ Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 5.2,
+      "tg": 1,
+      "rezCD": 34,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 34,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=КАРЫМСКАЯ Э&rvec_id=690238285745,690238281641,690238275739,730249589863,730249596002,690238271996,690238272223,690238292774,690238270112,690238271543,690238280559,690238272977,690238286334,690238272920,690238276666,690238286983,690238287079,690238289418,690238276903,690238277083,690238283627,690238288447,730249600088,730249602477,690238274165,690238274168,690238283073,690238275067,730249552484,690238292278,690238292376,690238282275,690238282207,690238284924&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "89020": {
+      "name": "КРАСНОЯРСК-ВОСТ",
+      "norm": "6.8Ф",
+      "fact": 2.83,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=КРАСНОЯРСК-ВОСТ Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 4.02,
+      "tg": 1,
+      "rezCD": 13,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 13,
+        "nep": 1,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=КРАСНОЯРСК-ВОСТ Э&rvec_id=690238285767,690238285667,690238290442,690238290449,690238272198,730249593526,690238292628,690238275172,690238288510,690238292361,690238292378,730249569231,730249588715&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=КРАСНОЯРСК-ВОСТ Э&rvec_id=730249293919&report-filter-param=2"
+      }
+    },
+    "88010": {
+      "name": "МАРИИНСК",
+      "norm": "3.0Ф",
+      "fact": 4.43,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=МАРИИНСК Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 5.13,
+      "tg": 1,
+      "rezCD": 15,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 15,
+        "nep": 1,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=МАРИИНСК Э&rvec_id=690238285812,690238285869,690238291461,690238280065,690238286384,690238286961,690238276977,690238283803,730249591936,690238282962,690238288947,730249585513,690238283075,690238283071,690238292413&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=МАРИИНСК Э&rvec_id=730249587676&report-filter-param=2"
+      }
+    },
+    "86490": {
+      "name": "МЕЖДУРЕЧЕНСК",
+      "norm": "3.0Ф",
+      "fact": 12.4,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=МЕЖДУРЕЧЕНСК Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 8.77,
+      "tg": 1,
+      "rezCD": 5,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 5,
+        "nep": 1,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=МЕЖДУРЕЧЕНСК Э&rvec_id=730249537207,690238279462,730249594326,730249236260,690237792463&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=МЕЖДУРЕЧЕНСК Э&rvec_id=730249030793&report-filter-param=2"
+      }
+    },
+    "98590": {
+      "name": "НАХОДКА-ВОСТОЧНАЯ",
+      "norm": "2.0Ф",
+      "fact": 3.15,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=НАХОДКА-ВОСТОЧНАЯ Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 2.57,
+      "tg": 1,
+      "rezCD": 5,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 5,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=НАХОДКА-ВОСТОЧНАЯ Э&rvec_id=690238285756,690238288491,690238288946,730249569797,730249569272&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "94010": {
+      "name": "ПЕТРОВСКИЙ ЗАВОД",
+      "norm": "0",
+      "fact": 1.15,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ПЕТРОВСКИЙ ЗАВОД Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 1.45,
+      "tg": 1,
+      "rezCD": 2,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 2,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ПЕТРОВСКИЙ ЗАВОД Э&rvec_id=730249369473,690238278574&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "95170": {
+      "name": "СКОВОРОДИНО",
+      "norm": "4.13Ф",
+      "fact": 3.28,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=СКОВОРОДИНО Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 4.07,
+      "tg": 1,
+      "rezCD": 6,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 6,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=СКОВОРОДИНО Э&rvec_id=690238292775,730249364157,730249545113,690238274196,730249591884,730249542743&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "98280": {
+      "name": "СМОЛЯНИНОВО",
+      "norm": "3.0Ф",
+      "fact": 3.42,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=СМОЛЯНИНОВО Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 5.87,
+      "tg": 1,
+      "rezCD": 16,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 16,
+        "nep": 1,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=СМОЛЯНИНОВО Э&rvec_id=690238291131,690238291383,690237904431,730249171473,730249599447,730249551274,690238278014,690238273173,690238276623,730249570663,690238276918,690238278623,730249602648,730249594951,730249602579,690238292357&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=СМОЛЯНИНОВО Э&rvec_id=730249585417&report-filter-param=2"
+      }
+    },
+    "92000": {
+      "name": "ТАЙШЕТ",
+      "norm": "2.0Ф",
+      "fact": 5.15,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ТАЙШЕТ Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 5.93,
+      "tg": 1,
+      "rezCD": 33,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 33,
+        "nep": 1,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ТАЙШЕТ Э&rvec_id=690238285678,690238281413,730249324450,730249590315,690238281586,690238284075,690238284044,730249578195,730249578264,730249573759,730249567956,690238271397,690238279434,730249361214,690238279241,690238286921,690238286943,690238289254,730249570549,730249577142,730249564981,690238283776,690238283804,690238275219,730249596704,730249594842,690238283078,690238283094,690238292281,730249580585,690238284894,730249594191,730249583996&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ТАЙШЕТ Э&rvec_id=730249376988&report-filter-param=2"
+      }
+    },
+    "92000_80": {
+      "name": "Тайшет-ВЛ80тк",
+      "norm": "6.0Ф",
+      "fact": 9.18,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ТАЙШЕТ ВЛ80ТК&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 7.12,
+      "tg": 1,
+      "rezCD": 4,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 4,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ТАЙШЕТ ВЛ80ТК&rvec_id=690238281586,730249578264,730249567956,690238283804&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "90440": {
+      "name": "ТАКСИМО",
+      "norm": "5.0Ф",
+      "fact": 5.7,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ТАКСИМО Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 7.15,
+      "tg": 1,
+      "rezCD": 3,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 3,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ТАКСИМО Э&rvec_id=690238285905,690238290641,690238276979&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "95130": {
+      "name": "УРУША",
+      "norm": "3.74Ф",
+      "fact": 2.68,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=УРУША Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 2.87,
+      "tg": 1,
+      "rezCD": 12,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 12,
+        "nep": 1,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=УРУША Э&rvec_id=730249395497,730249587660,690238292683,690238279465,690238276668,690238276690,730249602688,690238288962,730249602650,730249602647,690238288768,690238282388&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=УРУША Э&rvec_id=730249007634&report-filter-param=2"
+      }
+    },
+    "97000": {
+      "name": "ХАБАРОВСК-2",
+      "norm": "5.0Ф",
+      "fact": 3.37,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ХАБАРОВСК-2 Э&report-filter-tg=электровозов пер. тока&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 3.3,
+      "tg": 1,
+      "rezCD": 23,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 23,
+        "nep": 3,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ХАБАРОВСК-2 Э&rvec_id=690238290932,690238290943,690238285692,730249589848,730249563787,690238284079,690238284051,690238292637,690238273691,690238278026,690238280637,690238276686,730249564935,690238274317,730249598013,690238288505,690238278687,730249594880,690238275053,730249576224,690238282170,730249588190,730249588181&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=1&report-filter-station=ХАБАРОВСК-2 Э&rvec_id=690238126717,730249197909,730249110596&report-filter-param=2"
+      }
+    },
+    "86490-92000": {
+      "name": "Междуреченск - Тайшет",
+      "norm": 67.0,
+      "fact": 64.78,
+      "avg": 69.97
+    },
+    "88010-92000": {
+      "name": "Мариинск-Тайшет",
+      "norm": 55.0,
+      "fact": 52.04,
+      "avg": 62.26
+    },
+    "92000-90440": {
+      "name": "Тайшет-Таксимо",
+      "norm": 99.0,
+      "fact": 100.35,
+      "avg": 117.01
+    },
+    "92000-94010": {
+      "name": "Тайшет-П.Завод",
+      "norm": 85.0,
+      "fact": 91.43,
+      "avg": 98.68
+    },
+    "94010-94310": {
+      "name": "П.Завод-Карымская",
+      "norm": 43.0,
+      "fact": 43.56,
+      "avg": 42.66
+    },
+    "94310-94470": {
+      "name": "Карымская-Борзя",
+      "norm": 26.0,
+      "fact": 24.44,
+      "avg": 23.89
+    },
+    "94310-96060": {
+      "name": "Карымская-Архара",
+      "norm": 113.0,
+      "fact": 135.22,
+      "avg": 130.41
+    },
+    "96060-97000": {
+      "name": "Архара-Хабаровск",
+      "norm": 30.0,
+      "fact": 29.63,
+      "avg": 29.25
+    },
+    "97000-98280": {
+      "name": "Хабаровск-Смоляниново",
+      "norm": 49.0,
+      "fact": 50.23,
+      "avg": 52.08
+    },
+    "98280-98590": {
+      "name": "Смоляниново-Находка",
+      "norm": 12.0,
+      "fact": 13.03,
+      "avg": 12.51
+    },
+    "90440-90460": {
+      "name": "Таксимо-Хани",
+      "norm": 28.0,
+      "fact": 30.33,
+      "avg": 31.09
+    },
+    "90460-91000": {
+      "name": "Хани-Тында",
+      "norm": 50.0,
+      "fact": 49.5,
+      "avg": 53.18
+    },
+    "91000-91140": {
+      "name": "Тында-Беркакит",
+      "norm": 24.0,
+      "fact": 23.71,
+      "avg": 27.05
+    },
+    "91000-91710": {
+      "name": "Тында-Н.Ургал",
+      "norm": 95.0,
+      "fact": 101.04,
+      "avg": 103.21
+    },
+    "91000-95170": {
+      "name": "Тында-Сковородино",
+      "norm": 21.0,
+      "fact": 21.0,
+      "avg": 23.56
+    },
+    "91710-96000": {
+      "name": "Н.Ургал- Комсомольск",
+      "norm": 56.0,
+      "fact": 58.39,
+      "avg": 60.63
+    },
+    "91710-96160": {
+      "name": "Н.Ургал- Известковая",
+      "norm": 50.0,
+      "fact": 48.06,
+      "avg": 51.77
+    },
+    "96000-96380": {
+      "name": "Комсомольск- Волочаевка",
+      "norm": 33.0,
+      "fact": 32.95,
+      "avg": 36.66
+    },
+    "96000-96820": {
+      "name": "Комсомольск-Ванино",
+      "norm": 48.0,
+      "fact": 50.43,
+      "avg": 51.4
+    }
+  },
+  "svg2": {
+    "91140": {
+      "name": "БЕРКАКИТ",
+      "norm": "5.78Ф",
+      "fact": 3.4,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=БЕРКАКИТ Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 5.48,
+      "tg": 2,
+      "rezCD": 2,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 2,
+        "nep": 1,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=БЕРКАКИТ Т&rvec_id=690238288325,690238288499&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=БЕРКАКИТ Т&rvec_id=690237048033&report-filter-param=2"
+      }
+    },
+    "96760": {
+      "name": "ВАНИНО",
+      "norm": "3.71Ф",
+      "fact": 7.0,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ВАНИНО Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 5.48,
+      "tg": 2,
+      "rezCD": 3,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 3,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=ВАНИНО Т&rvec_id=730249586244,690238282404,730249580648&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "96380": {
+      "name": "ВОЛОЧАЕВКА-2",
+      "norm": "4.06Ф",
+      "fact": 2.78,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ВОЛОЧАЕВКА-2 Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 4.68,
+      "tg": 2,
+      "rezCD": null,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 0,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": [],
+        "nep_request": []
+      }
+    },
+    "96650": {
+      "name": "ВЫСОКОГОРНАЯ",
+      "norm": "2.87Ф",
+      "fact": 4.32,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ВЫСОКОГОРНАЯ Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 3.18,
+      "tg": 2,
+      "rezCD": 5,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 5,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=ВЫСОКОГОРНАЯ Т&rvec_id=730249548471,690238272184,730249578260,730249551332,690238275214&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "96160": {
+      "name": "ИЗВЕСТКОВАЯ",
+      "norm": "4.09Ф",
+      "fact": 3.9,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ИЗВЕСТКОВАЯ Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 5.3,
+      "tg": 2,
+      "rezCD": 1,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 1,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=ИЗВЕСТКОВАЯ Т&rvec_id=690238288750&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "96010": {
+      "name": "КОМСОМОЛЬСК-НА-АМУРЕ",
+      "norm": "",
+      "fact": 0,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=КОМСОМОЛЬСК-НА-АМУРЕ Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 12.3,
+      "tg": 2,
+      "rezCD": 1,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 1,
+        "nep": 2,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=КОМСОМОЛЬСК-НА-АМУРЕ Т&rvec_id=730249596516&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=КОМСОМОЛЬСК-НА-АМУРЕ Т&rvec_id=730241330659,690234421993&report-filter-param=2"
+      }
+    },
+    "96000": {
+      "name": "КОМСОМОЛЬСК-СОРТИРО",
+      "norm": "6.3Ф",
+      "fact": 10.12,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=КОМСОМОЛЬСК-СОРТИРО Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 9.72,
+      "tg": 2,
+      "rezCD": 13,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 13,
+        "nep": 5,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=КОМСОМОЛЬСК-СОРТИРО Т&rvec_id=730248774002,730249573892,690238280066,690238270096,690238286344,730249405702,730249405754,730249582939,690238288493,730249602513,730249584690,730249584086,730249588187&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=КОМСОМОЛЬСК-СОРТИРО Т&rvec_id=690231251477,730249277195,690233972428,730248968711,730249247390&report-filter-param=2"
+      }
+    },
+    "91710": {
+      "name": "НОВЫЙ УРГАЛ",
+      "norm": "4.46Ф",
+      "fact": 12.88,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=НОВЫЙ УРГАЛ Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 10.77,
+      "tg": 2,
+      "rezCD": 18,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 18,
+        "nep": 2,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=НОВЫЙ УРГАЛ Т&rvec_id=690238285906,730249293900,690238275905,730249558411,730249350911,730249587700,690238290428,690238273898,690238292635,690238278025,730249555129,690238277989,730249343099,690238280705,690238289231,690238275167,690238275032,730249588192&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=НОВЫЙ УРГАЛ Т&rvec_id=730248079658,730249584080&report-filter-param=2"
+      }
+    },
+    "95170": {
+      "name": "СКОВОРОДИНО",
+      "norm": "4.68Ф",
+      "fact": 4.57,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=СКОВОРОДИНО Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 6.18,
+      "tg": 2,
+      "rezCD": 2,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 2,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=СКОВОРОДИНО Т&rvec_id=690238289220,690238292231&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "90440": {
+      "name": "ТАКСИМО",
+      "norm": "3.31Ф",
+      "fact": 10.18,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ТАКСИМО Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 6.5,
+      "tg": 2,
+      "rezCD": 5,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 5,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=ТАКСИМО Т&rvec_id=690238285871,690238273920,690238286342,690238288513,730249569284&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "91000": {
+      "name": "ТЫНДА",
+      "norm": "6.5Ф",
+      "fact": 4.73,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ТЫНДА Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 6.2,
+      "tg": 2,
+      "rezCD": 8,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 8,
+        "nep": 10,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=ТЫНДА Т&rvec_id=690238275904,730249557594,690238279429,690238287021,690238292375,690238292379,690238284804,730249588671&report-filter-param=1",
+        "nep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=ТЫНДА Т&rvec_id=730248219378,730249548423,730249550396,730249550344,730248940260,690238241164,690238186240,690235388566,690235440060,690236280944&report-filter-param=2"
+      }
+    },
+    "90460": {
+      "name": "ХАНИ",
+      "norm": "4.4Ф",
+      "fact": 1.82,
+      "fact_request": "module=ReportFR&method=rep_10_fr_test&report-filter-query=ХАНИ Т&report-filter-tg=тепловозов&report-filter-datetime=2021-11-01 06:00:00 +0300&report-filter-with-depot=0",
+      "avg": 2.87,
+      "tg": 2,
+      "rezCD": 2,
+      "count_loco": {
+        "rezCD": 0,
+        "ep": 2,
+        "nep": 0,
+        "rezCD_request": [],
+        "ep_request": "module=ReportFR&method=rep_10_fr_test&report-filter-datetime=01.11.2021 06:00&details-report=panel-report6_fr&details-main=RZDApp.view.report.report6_fr.Main&report-filter-tg=2&report-filter-station=ХАНИ Т&rvec_id=690238292751,690238279466&report-filter-param=1",
+        "nep_request": []
+      }
+    },
+    "86490-92000": {
+      "name": "Междуреченск - Тайшет",
+      "norm": 67.0,
+      "fact": 64.78,
+      "avg": 69.97
+    },
+    "88010-92000": {
+      "name": "Мариинск-Тайшет",
+      "norm": 55.0,
+      "fact": 52.04,
+      "avg": 62.26
+    },
+    "92000-90440": {
+      "name": "Тайшет-Таксимо",
+      "norm": 99.0,
+      "fact": 100.35,
+      "avg": 117.01
+    },
+    "92000-94010": {
+      "name": "Тайшет-П.Завод",
+      "norm": 85.0,
+      "fact": 91.43,
+      "avg": 98.68
+    },
+    "94010-94310": {
+      "name": "П.Завод-Карымская",
+      "norm": 43.0,
+      "fact": 43.56,
+      "avg": 42.66
+    },
+    "94310-94470": {
+      "name": "Карымская-Борзя",
+      "norm": 26.0,
+      "fact": 24.44,
+      "avg": 23.89
+    },
+    "94310-96060": {
+      "name": "Карымская-Архара",
+      "norm": 113.0,
+      "fact": 135.22,
+      "avg": 130.41
+    },
+    "96060-97000": {
+      "name": "Архара-Хабаровск",
+      "norm": 30.0,
+      "fact": 29.63,
+      "avg": 29.25
+    },
+    "97000-98280": {
+      "name": "Хабаровск-Смоляниново",
+      "norm": 49.0,
+      "fact": 50.23,
+      "avg": 52.08
+    },
+    "98280-98590": {
+      "name": "Смоляниново-Находка",
+      "norm": 12.0,
+      "fact": 13.03,
+      "avg": 12.51
+    },
+    "90440-90460": {
+      "name": "Таксимо-Хани",
+      "norm": 28.0,
+      "fact": 30.33,
+      "avg": 31.09
+    },
+    "90460-91000": {
+      "name": "Хани-Тында",
+      "norm": 50.0,
+      "fact": 49.5,
+      "avg": 53.18
+    },
+    "91000-91140": {
+      "name": "Тында-Беркакит",
+      "norm": 24.0,
+      "fact": 23.71,
+      "avg": 27.05
+    },
+    "91000-91710": {
+      "name": "Тында-Н.Ургал",
+      "norm": 95.0,
+      "fact": 101.04,
+      "avg": 103.21
+    },
+    "91000-95170": {
+      "name": "Тында-Сковородино",
+      "norm": 21.0,
+      "fact": 21.0,
+      "avg": 23.56
+    },
+    "91710-96000": {
+      "name": "Н.Ургал- Комсомольск",
+      "norm": 56.0,
+      "fact": 58.39,
+      "avg": 60.63
+    },
+    "91710-96160": {
+      "name": "Н.Ургал- Известковая",
+      "norm": 50.0,
+      "fact": 48.06,
+      "avg": 51.77
+    },
+    "96000-96380": {
+      "name": "Комсомольск- Волочаевка",
+      "norm": 33.0,
+      "fact": 32.95,
+      "avg": 36.66
+    },
+    "96000-96820": {
+      "name": "Комсомольск-Ванино",
+      "norm": 48.0,
+      "fact": 50.43,
+      "avg": 51.4
+    }
+  },
+  "data": []
+}
