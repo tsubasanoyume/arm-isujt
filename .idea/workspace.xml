@@ -102,20 +102,9 @@
       <workItem from="1636553805180" duration="709000" />
       <workItem from="1636612643017" duration="252000" />
       <workItem from="1636728034389" duration="9837000" />
-    </task>
-    <task id="LOCAL-00005" summary="Сборка 20210525">
-      <created>1621952603827</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1621952603827</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Сборка 20210525">
-      <created>1621972132831</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1621972132831</updated>
+      <workItem from="1636991370882" duration="242000" />
+      <workItem from="1636992977419" duration="4000" />
+      <workItem from="1636992989991" duration="2000" />
     </task>
     <task id="LOCAL-00007" summary="Сборка 20210527">
       <created>1622112130785</created>
@@ -446,7 +435,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636739010358</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="delete">
+      <created>1636991406877</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1636991406877</updated>
+    </task>
+    <task id="LOCAL-00055" summary="15112021">
+      <created>1636991603942</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1636991603942</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Сборка 20210527" />
     <MESSAGE value="Сборка 20210608" />
     <MESSAGE value="Сборка 20210617" />
     <MESSAGE value="Сборка 20210615" />
@@ -489,8 +491,9 @@
     <MESSAGE value="29102021" />
     <MESSAGE value="03112021" />
     <MESSAGE value="10112021" />
-    <MESSAGE value="delete" />
     <MESSAGE value="12112021" />
-    <option name="LAST_COMMIT_MESSAGE" value="12112021" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="15112021" />
+    <option name="LAST_COMMIT_MESSAGE" value="15112021" />
   </component>
 </project>
