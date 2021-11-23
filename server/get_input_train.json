@@ -1,0 +1,293 @@
+{
+    "success": true,
+    "totalCount": 1,
+    "data": [
+        {
+            "npp": 1,
+            "road_disl": "КРАС",
+            "train_number": 0,
+            "liter": "",
+            "train_index": "888004-999-881408",
+            "train_index_tooltip": "АБАКАН - НОВАЯ ЕЛОВКА",
+            "composition_station_id": "АБАКАН",
+            "direction_station_id": "НОВАЯ ЕЛОВКА",
+            "usl_length": 45,
+            "weight": 2000,
+            "kod_gruza": "НЕТ ГР",
+            "time_delivery": "",
+            "priority": 1,
+            "st_oper": "АБАКАН",
+            "kod_oper": 0,
+            "time_oper": "28 13:53",
+            "simple_time": "",
+            "st_drop_sdach": null,
+            "time_drop_sdach": null,
+            "cars_number": 50,
+            "gr_cars": 0,
+            "gr_pv": 0,
+            "gr_cs": 0,
+            "por_cars": 50,
+            "por_kr": 0,
+            "por_pl": 0,
+            "por_pv": 0,
+            "por_cs": 50,
+            "por_pr": 0,
+            "nrp_cars": 0,
+            "train_id": 200273218092000,
+            "st_ssp": "",
+            "appearance": ""
+        },
+        {
+            "npp": 2,
+            "road_disl": "КРАС",
+            "train_number": 0,
+            "liter": "",
+            "train_index": "888004-999-881408",
+            "train_index_tooltip": "АБАКАН - НОВАЯ ЕЛОВКА",
+            "composition_station_id": "АБАКАН",
+            "direction_station_id": "НОВАЯ ЕЛОВКА",
+            "usl_length": 45,
+            "weight": 2000,
+            "kod_gruza": "НЕТ ГР",
+            "time_delivery": "",
+            "priority": 1,
+            "st_oper": "НЕ АБАКАН",
+            "kod_oper": 1,
+            "time_oper": "28 13:53",
+            "simple_time": "",
+            "st_drop_sdach": null,
+            "time_drop_sdach": null,
+            "cars_number": 50,
+            "gr_cars": 0,
+            "gr_pv": 0,
+            "gr_cs": 0,
+            "por_cars": 50,
+            "por_kr": 0,
+            "por_pl": 0,
+            "por_pv": 0,
+            "por_cs": 50,
+            "por_pr": 0,
+            "nrp_cars": 0,
+            "train_id": 200273218092000,
+            "st_ssp": "",
+            "appearance": ""
+        }
+    ],
+    "settings": {
+        "npp": {
+            "column": 0,
+            "name": "№ п/п",
+            "visible": true,
+            "width": 120
+        },
+        "road_disl": {
+            "column": 1,
+            "name": "Дорога дисл.",
+            "visible": true,
+            "width": 120
+        },
+        "train": {
+            "name": "Основные данные о поезде",
+            "visible": true,
+            "child": {
+                "train_number": {
+                    "column": 2,
+                    "name": "Номер",
+                    "visible": true,
+                    "width": 120
+                },
+                "liter": {
+                    "column": 3,
+                    "name": "Лит.",
+                    "visible": true,
+                    "width": 120
+                },
+                "train_index": {
+                    "column": 4,
+                    "name": "Индекс",
+                    "visible": true,
+                    "width": 120
+                },
+                "composition_station_id": {
+                    "column": 6,
+                    "name": "Станция формирования",
+                    "visible": false,
+                    "width": 120
+                },
+                "direction_station_id": {
+                    "column": 7,
+                    "name": "Станция назначения",
+                    "visible": false,
+                    "width": 120
+                },
+                "usl_length": {
+                    "column": 8,
+                    "name": "Удл",
+                    "visible": true,
+                    "width": 120
+                },
+                "weight": {
+                    "column": 9,
+                    "name": "Вес",
+                    "visible": true,
+                    "width": 120
+                },
+                "kod_gruza": {
+                    "column": 10,
+                    "name": "Код груза",
+                    "visible": true,
+                    "width": 120
+                },
+                "time_delivery": {
+                    "column": 11,
+                    "name": "Срок доставки",
+                    "visible": true,
+                    "width": 120
+                },
+                "priority": {
+                    "column": 12,
+                    "name": "Пр-т",
+                    "visible": true,
+                    "width": 120
+                }
+            }
+        },
+        "last_oper": {
+            "name": "Последняя операция",
+            "visible": true,
+            "child": {
+                "st_oper": {
+                    "column": 13,
+                    "name": "Станция операции",
+                    "visible": true,
+                    "width": 120
+                },
+                "kod_oper": {
+                    "column": 14,
+                    "name": "Опер МКод",
+                    "visible": true,
+                    "width": 120
+                },
+                "time_oper": {
+                    "column": 15,
+                    "name": "Дата / Время",
+                    "visible": true,
+                    "width": 120
+                },
+                "simple_time": {
+                    "column": 16,
+                    "name": "Простой на станции",
+                    "visible": true,
+                    "width": 120
+                }
+            }
+        },
+        "st_drop_sdach": {
+            "column": 17,
+            "name": "Станция СДАЧИ/бросания",
+            "visible": true,
+            "width": 120
+        },
+        "time_drop_sdach": {
+            "column": 18,
+            "name": "Прогноз сдачи по стыку",
+            "visible": true,
+            "width": 120
+        },
+        "cars": {
+            "name": "Вагоны",
+            "visible": true,
+            "child": {
+                "cars_number": {
+                    "column": 19,
+                    "name": "Кол-во",
+                    "visible": true,
+                    "width": 120
+                },
+                "gr": {
+                    "name": "Груженые",
+                    "visible": true,
+                    "child": {
+                        "gr_cars": {
+                            "column": 20,
+                            "name": "всего",
+                            "visible": true,
+                            "width": 120
+                        },
+                        "gr_pv": {
+                            "column": 21,
+                            "name": "пв",
+                            "visible": true,
+                            "width": 120
+                        },
+                        "gr_cs": {
+                            "column": 22,
+                            "name": "цс",
+                            "visible": true,
+                            "width": 120
+                        }
+                    }
+                },
+                "por": {
+                    "name": "Порожние",
+                    "visible": true,
+                    "child": {
+                        "por_cars": {
+                            "column": 23,
+                            "name": "всего",
+                            "visible": true,
+                            "width": 120
+                        },
+                        "por_kr": {
+                            "column": 24,
+                            "name": "кр",
+                            "visible": true,
+                            "width": 120
+                        },
+                        "por_pl": {
+                            "column": 25,
+                            "name": "пл",
+                            "visible": true,
+                            "width": 120
+                        },
+                        "por_pv": {
+                            "column": 26,
+                            "name": "пв",
+                            "visible": true,
+                            "width": 120
+                        },
+                        "por_cs": {
+                            "column": 27,
+                            "name": "цс",
+                            "visible": true,
+                            "width": 120
+                        },
+                        "por_pr": {
+                            "column": 28,
+                            "name": "пр",
+                            "visible": true,
+                            "width": 120
+                        }
+                    }
+                },
+                "nrp_cars": {
+                    "column": 29,
+                    "name": "НРП",
+                    "visible": true,
+                    "width": 120
+                }
+            }
+        },
+        "train_id": false,
+        "st_ssp": false,
+        "appearance": false,
+        "train_index_tooltip": {
+            "column": 5,
+            "name": "Индекс",
+            "visible": false,
+            "width": 120
+        }
+    },
+    "type": null,
+    "model_name": "SSP_input_train_mdl"
+}
