@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb08f91a-8b62-46d3-8ef5-dcca3a6704c5" name="Default Changelist" comment="" />
+    <list default="true" id="cb08f91a-8b62-46d3-8ef5-dcca3a6704c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,20 +113,8 @@
       <workItem from="1637327266275" duration="749000" />
       <workItem from="1637330313615" duration="243000" />
       <workItem from="1637528977753" duration="295000" />
-    </task>
-    <task id="LOCAL-00019" summary="Сборка 19072021">
-      <created>1626726396508</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1626726396508</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Сборка 19072021">
-      <created>1626726825217</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1626726825217</updated>
+      <workItem from="1637660521560" duration="209000" />
+      <workItem from="1637733820644" duration="148000" />
     </task>
     <task id="LOCAL-00021" summary="Сборка 19072021">
       <created>1626726903969</created>
@@ -455,7 +445,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637529104407</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="delete">
+      <created>1637660533709</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1637660533709</updated>
+    </task>
+    <task id="LOCAL-00069" summary="23112021">
+      <created>1637660669001</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1637660669001</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Сборка 20210628." />
     <MESSAGE value="Clear." />
     <MESSAGE value="Сборка 19072021" />
     <MESSAGE value="13082021" />
@@ -498,8 +501,9 @@
     <MESSAGE value="17112021" />
     <MESSAGE value="19112021" />
     <MESSAGE value="19112021/2" />
-    <MESSAGE value="delete" />
     <MESSAGE value="22112021" />
-    <option name="LAST_COMMIT_MESSAGE" value="22112021" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="23112021" />
+    <option name="LAST_COMMIT_MESSAGE" value="23112021" />
   </component>
 </project>
