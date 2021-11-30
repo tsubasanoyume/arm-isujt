@@ -1,0 +1,208 @@
+{
+    "success": true,
+    "totalCount": 0,
+    "data": [
+        {
+            "num": 1,
+            "index_train": "xxxxxx-xxx-xxxxxx",
+            "st_form_name": "",
+            "st_dir_name": "",
+            "work_park": 0,
+            "work_park_center": true,
+            "fr_cars": 0,
+            "fr_cars_center": true,
+            "por_cars": 0,
+            "por_cars_center": true,
+            "por_pv_cars": 0,
+            "por_pv_cars_center": true,
+            "por_pv_zs_cars": 0,
+            "por_pv_zs_cars_center": true,
+            "por_pv_zs_fgk_cars": 0,
+            "por_pv_zs_fgk_cars_center": true,
+            "por_cs_cars": 0,
+            "por_cs_cars_center": true,
+            "num_center": true
+        },
+        {
+            "num": 2,
+            "index_train": "xxxxxx-xxx-xxxxxx",
+            "st_form_name": "",
+            "st_dir_name": "",
+            "work_park": 0,
+            "work_park_center": true,
+            "fr_cars": 0,
+            "fr_cars_center": true,
+            "por_cars": 0,
+            "por_cars_center": true,
+            "por_pv_cars": 0,
+            "por_pv_cars_center": true,
+            "por_pv_zs_cars": 0,
+            "por_pv_zs_cars_center": true,
+            "por_pv_zs_fgk_cars": 0,
+            "por_pv_zs_fgk_cars_center": true,
+            "por_cs_cars": 0,
+            "por_cs_cars_center": true,
+            "num_center": true
+        },
+        {
+            "num": 3,
+            "index_train": "xxxxxx-xxx-xxxxxx",
+            "st_form_name": "",
+            "st_dir_name": "",
+            "work_park": 0,
+            "work_park_center": true,
+            "fr_cars": 0,
+            "fr_cars_center": true,
+            "por_cars": 0,
+            "por_cars_center": true,
+            "por_pv_cars": 0,
+            "por_pv_cars_center": true,
+            "por_pv_zs_cars": 0,
+            "por_pv_zs_cars_center": true,
+            "por_pv_zs_fgk_cars": 0,
+            "por_pv_zs_fgk_cars_center": true,
+            "por_cs_cars": 0,
+            "por_cs_cars_center": true,
+            "num_center": true
+        },
+        {
+            "num": 4,
+            "index_train": "xxxxxx-xxx-xxxxxx",
+            "st_form_name": "",
+            "st_dir_name": "",
+            "work_park": 0,
+            "work_park_center": true,
+            "fr_cars": 0,
+            "fr_cars_center": true,
+            "por_cars": 0,
+            "por_cars_center": true,
+            "por_pv_cars": 0,
+            "por_pv_cars_center": true,
+            "por_pv_zs_cars": 0,
+            "por_pv_zs_cars_center": true,
+            "por_pv_zs_fgk_cars": 0,
+            "por_pv_zs_fgk_cars_center": true,
+            "por_cs_cars": 0,
+            "por_cs_cars_center": true,
+            "num_center": true
+        }
+    ],
+    "settings": {
+        "type_info_oper": {
+            "column": 0,
+            "name": "Источник",
+            "visible": false,
+            "width": 80
+        },
+        "num": {
+            "column": 1,
+            "name": "№ п/п",
+            "visible": true,
+            "width": 45
+        },
+        "train_id": {
+            "column": 2,
+            "name": "Поезд id",
+            "visible": false,
+            "width": 140
+        },
+        "time_oper": {
+            "column": 3,
+            "name": "Время операции",
+            "visible": false,
+            "width": 120
+        },
+        "index_train": {
+            "column": 4,
+            "name": "Индекс поезда",
+            "visible": true,
+            "width": 140
+        },
+        "period_time": {
+            "column": 5,
+            "name": "Период времени",
+            "visible": true,
+            "width": 120
+        },
+        "st_form_id": {
+            "column": 6,
+            "name": "Станция формирования id",
+            "visible": false,
+            "width": 120
+        },
+        "st_form_esr": {
+            "column": 7,
+            "name": "Станция формирования esr",
+            "visible": false,
+            "width": 120
+        },
+        "st_form_name": {
+            "column": 8,
+            "name": "Станция<br>формирования",
+            "visible": true,
+            "width": 220
+        },
+        "st_dir_id": {
+            "column": 9,
+            "name": "Станция назначения id",
+            "visible": false,
+            "width": 120
+        },
+        "st_dir_esr": {
+            "column": 10,
+            "name": "Станция назначения esr",
+            "visible": false,
+            "width": 120
+        },
+        "st_dir_name": {
+            "column": 11,
+            "name": "Станция<br>назначения",
+            "visible": true,
+            "width": 220
+        },
+        "work_park": {
+            "column": 12,
+            "name": "Рабочий<br>парк",
+            "visible": true,
+            "width": 120
+        },
+        "fr_cars": {
+            "column": 13,
+            "name": "Груженые<br>вагоны",
+            "visible": true,
+            "width": 120
+        },
+        "por_cars": {
+            "column": 14,
+            "name": "Порожние<br>вагоны",
+            "visible": true,
+            "width": 120
+        },
+        "por_pv_cars": {
+            "column": 15,
+            "name": "Порожние<br>ПВ всего",
+            "visible": true,
+            "width": 120
+        },
+        "por_pv_zs_cars": {
+            "column": 16,
+            "name": "в т.ч.<br>порожние<br>ПВ на<br>ЗСИБ",
+            "visible": true,
+            "width": 120
+        },
+        "por_pv_zs_fgk_cars": {
+            "column": 17,
+            "name": "из них<br>порожние<br>ПВ на<br>ЗСИБ ФГК",
+            "visible": true,
+            "width": 120
+        },
+        "por_cs_cars": {
+            "column": 18,
+            "name": "Порожние<br>ЦС",
+            "visible": true,
+            "width": 120
+        }
+    },
+    "type": null,
+    "model_name": "SSP_del_plan_skyt_mdl"
+}
