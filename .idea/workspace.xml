@@ -127,20 +127,8 @@
       <workItem from="1639065046439" duration="729000" />
       <workItem from="1639126617299" duration="1193000" />
       <workItem from="1639377454738" duration="713000" />
-    </task>
-    <task id="LOCAL-00039" summary="20102021">
-      <created>1634745703039</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1634745703039</updated>
-    </task>
-    <task id="LOCAL-00040" summary="delete">
-      <created>1634916015691</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1634916015691</updated>
+      <workItem from="1639496845150" duration="1336000" />
+      <workItem from="1639553194556" duration="37000" />
     </task>
     <task id="LOCAL-00041" summary="22102021">
       <created>1634916114283</created>
@@ -471,7 +459,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639377573476</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="delete">
+      <created>1639496857297</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1639496857297</updated>
+    </task>
+    <task id="LOCAL-00089" summary="14122021">
+      <created>1639497036318</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1639497036318</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20102021" />
     <MESSAGE value="22102021" />
     <MESSAGE value="27102021" />
     <MESSAGE value="29102021" />
@@ -514,8 +515,9 @@
     <MESSAGE value="08122021" />
     <MESSAGE value="09122021" />
     <MESSAGE value="09122021/2" />
-    <MESSAGE value="delete" />
     <MESSAGE value="13122021" />
-    <option name="LAST_COMMIT_MESSAGE" value="13122021" />
+    <MESSAGE value="delete" />
+    <MESSAGE value="14122021" />
+    <option name="LAST_COMMIT_MESSAGE" value="14122021" />
   </component>
 </project>
