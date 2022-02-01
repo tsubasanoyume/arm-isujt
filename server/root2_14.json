@@ -1,0 +1,211 @@
+{"data":[
+		{ 
+			"text": "Эл-зы груз. перем.тока", 
+			"checked": true,
+			"children": [				
+				{ "id": "244", "text": "ВЛ85", "checked": true },	 	 	
+				{ 
+					"text": "ВЛ80", 
+					"checked": true,
+					"children": [
+						{
+							"text": "ВЛ80 в/и", 
+							"checked": true,
+							"children": [
+									{ "id": "224", "text": "ВЛ80В", "checked": true }, 		
+									{ "id": "225", "text": "ВЛ80к", "checked": true }, 		
+									{ "id": "2269", "text": "ВЛ80м", "checked": true }, 		
+									{ "id": "233", "text": "ВЛ80р", "checked": true }, 		
+									{ "id": "240", "text": "ВЛ80с", "checked": true }, 		
+									{ "id": "239", "text": "ВЛ80ск", "checked": true }, 		
+									{ "id": "227", "text": "ВЛ80СМ", "checked": true }, 		
+									{ "id": "226", "text": "ВЛ80т", "checked": true }, 		
+									{ "id": "230", "text": "ВЛ80тк", "checked": true }, 		
+									{ "id": "247", "text": "ВЛ80Ф", "checked": true }
+							]
+						},		
+						{ 
+							"text": "1,5ВЛ80 в/и", 
+							"checked": true,
+							"children": [
+								{ "id": "2333", "text": "1.5ВЛ80р", "checked": true }, 		
+								{ "id": "2403", "text": "1.5ВЛ80с", "checked": true }, 		
+								{ "id": "2263", "text": "1.5ВЛ80т", "checked": true }, 		
+								{ "id": "2303", "text": "1.5ВЛ80тк", "checked": true }
+							]
+						},		
+						{ 
+							"text": "2ВЛ80 в/и", 
+							"checked": true,
+							"children": [
+								{ "id": "2334", "text": "2ВЛ80р", "checked": true }, 		
+								{ "id": "2404", "text": "2ВЛ80с", "checked": true }, 		
+								{ "id": "2264", "text": "2ВЛ80т", "checked": true }, 		
+								{ "id": "2304", "text": "2ВЛ80тк", "checked": true } 		
+							] 
+						}
+					] 
+				},	
+				{ 
+					"text": "ЭС5К", 
+					"checked": true,
+					"children": [
+						{ "id": "222", "text": "2ЭС5К", "checked": true }, 		
+						{ "id": "255", "text": "2ЭС5КБ", "checked": true }, 		
+						{ "id": "2224", "text": "2x2ЭС5К", "checked": true }, 		
+						{ "id": "253", "text": "3ЭС5К", "checked": true }
+					] 
+				}	
+			] 
+		},
+        { 	"text": "Тп-зы груз", 
+        	"checked": true,
+		    "children": [
+			    { "id": "521", "text": "ТЭ2", "checked": true }, 		
+			    { "id": "522", "text": "ТЭ3", "checked": true },	 	 	
+		        { "text": "ТЭ10", 
+		        	"checked": true,
+					"children": [
+						{ 	"text": "*/* ТЭ10", 
+							"checked": true,
+							"children": [
+								{ "id": "5721", "text": "1/2ТЭ10МК", "checked": true }, 		
+								{ "id": "5381", "text": "1/3ТЭ10в", "checked": true }, 		
+								{ "id": "5191", "text": "1/3ТЭ10м", "checked": true }, 		
+								{ "id": "5911", "text": "1/3ТЭ10мк", "checked": true }, 		
+								{ "id": "5821", "text": "1/3ТЭ10у", "checked": true }, 		
+								{ "id": "6931", "text": "1/3ТЭ10УК", "checked": true }, 		
+								{ "id": "5771", "text": "1/4ТЭ10С", "checked": true }, 		
+								{ "id": "5382", "text": "2/3ТЭ10в", "checked": true }, 		
+								{ "id": "5192", "text": "2/3ТЭ10м", "checked": true }, 		
+								{ "id": "5912", "text": "2/3ТЭ10мк", "checked": true }, 		
+								{ "id": "5822", "text": "2/3ТЭ10у", "checked": true }, 		
+								{ "id": "6932", "text": "2/3ТЭ10УК", "checked": true }, 		
+								{ "id": "5772", "text": "2/4ТЭ10С", "checked": true }, 		
+								{ "id": "5773", "text": "3/4ТЭ10С", "checked": true }
+							]
+						},		
+						{ "text": "2ТЭ10 в/и", 
+							"checked": true,
+    						"children": [
+								{ "id": "526", "text": "2ТЭ10", "checked": true }, 		
+								{ "id": "533", "text": "2ТЭ10в", "checked": true }, 		
+								{ "id": "609", "text": "2ТЭ10Вк", "checked": true }, 		
+								{ "id": "527", "text": "2ТЭ10л", "checked": true }, 		
+								{ "id": "575", "text": "2ТЭ10м", "checked": true }, 		
+								{ "id": "572", "text": "2ТЭ10МК", "checked": true }, 		
+								{ "id": "580", "text": "2ТЭ10С", "checked": true }, 		
+								{ "id": "534", "text": "2ТЭ10Т", "checked": true }, 		
+								{ "id": "550", "text": "2ТЭ10у", "checked": true }, 		
+								{ "id": "99903", "text": "2ТЭ10Ук", "checked": true }, 		
+								{ "id": "585", "text": "2ТЭ10УК", "checked": true }, 		
+								{ "id": "99904", "text": "2ТЭ10УП", "checked": true }, 		
+								{ "id": "508", "text": "2ТЭ10ут", "checked": true }, 		
+								{ "id": "99905", "text": "2ТЭ10Утк", "checked": true }
+							]
+						},		
+						{ "text": "3ТЭ10 в/и", 
+							"checked": true,
+							"children": [
+								{ "id": "538", "text": "3ТЭ10в", "checked": true }, 		
+								{ "id": "519", "text": "3ТЭ10м", "checked": true }, 		
+								{ "id": "591", "text": "3ТЭ10мк", "checked": true }, 		
+								{ "id": "5723", "text": "3ТЭ10МКО", "checked": true }, 		
+								{ "id": "5753", "text": "3ТЭ10МО", "checked": true }, 		
+								{ "id": "582", "text": "3ТЭ10у", "checked": true }, 		
+								{ "id": "5503", "text": "1,5х2ТЭ10у", "checked": true }, 		
+								{ "id": "693", "text": "3ТЭ10УК", "checked": true }, 		
+								{ "id": "5853", "text": "3ТЭ10УКО", "checked": true }
+							]
+						},		
+						{ "text": "4ТЭ10 в/и", 
+							"checked": true,
+							"children": [
+								{ "id": "577", "text": "4ТЭ10с", "checked": true }, 		
+							    { "id": "554", "text": "4ТЭ10У", "checked": true }
+							] 
+						}
+					] 
+				},	
+				{ "text": "2ТЭ", 
+					"checked": true,
+					"children": [
+						{ "text": "2ТЭ25", 
+							"checked": true,
+							"children": [
+								{ "id": "593", "text": "2ТЭ25К", "checked": true }, 		
+								{ "id": "699", "text": "2ТЭ25А", "checked": true }, 		
+								{ "id": "626", "text": "2ТЭ25АМ", "checked": true }
+							]
+						}, 		
+						{ "id": "517", "text": "2ТЭ70", "checked": true },		
+						{ "text": "Разные ТЭ", 
+							"checked": true,
+							"children": 
+								[
+									{ "id": "516", "text": "2ТЭ116к", "checked": true }, 		
+									{ "id": "529", "text": "2ТЭ116Г", "checked": true }, 		
+									{ "id": "530", "text": "2ТЭ116", "checked": true },
+									{ "id": "571", "text": "2ТЭ121", "checked": true }
+							] 
+						}
+					] 
+				},	
+					 		
+				{ "id": "630", "text": "3ТЭ116У", "checked": true }, 		
+				{ "id": "588", "text": "ТЭРА1", "checked": true },
+				{ "text": "М62 в/и", 
+					"checked": true,
+					"children": [
+						{ "id": "5371", "text": "1/3М62у", "checked": true }, 		
+						{ "id": "5811", "text": "1/3М62", "checked": true }, 		
+						{ "id": "5791", "text": "1/2М62у", "checked": true }, 		
+						{ "id": "523", "text": "М62К", "checked": true }, 		
+						{ "id": "531", "text": "М62", "checked": true }, 		
+						{ "id": "535", "text": "ДМ62", "checked": true }
+					]
+				},	
+				{ "text": "2М62в/и", 
+					"checked": true,
+					"children": [
+						{ "id": "5791", "text": "1/2М62у", "checked": true }, 		
+						{ "id": "539", "text": "2М62", "checked": true }, 		
+						{ "id": "536", "text": "2М62к", "checked": true }, 		
+						{ "id": "597", "text": "2М62М", "checked": true }, 		
+						{ "id": "598", "text": "2М62МК", "checked": true }, 		
+						{ "id": "579", "text": "2М62у", "checked": true }, 		
+						{ "id": "540", "text": "2М62ук", "checked": true }, 		
+						{ "id": "583", "text": "2М62УМ", "checked": true }, 		
+						{ "id": "599", "text": "2М62УМК", "checked": true }, 		
+						{ "id": "518", "text": "2М62УР", "checked": true }, 		
+						{ "id": "761", "text": "2М62УС", "checked": true }, 		
+						{ "id": "5372", "text": "2/3М62у", "checked": true }
+					] 
+				},	
+				{ "text": "3М62 в/и", 
+					"checked": true,
+					"children": [
+						{ "id": "537", "text": "3М62у", "checked": true }, 		
+						{ "id": "581", "text": "3М62", "checked": true }
+					] 
+				},	
+				{ "text": "ТГ", 
+					"checked": true,
+					"children": [
+						{ "id": "666", "text": "ТГ16", "checked": true }, 		
+						{ "id": "667", "text": "ТГ21", "checked": true }, 		
+						{ "id": "668", "text": "ТГ22", "checked": true }
+					] 
+				},	
+				{ "text": "ТУ", 
+					"checked": true,
+					"children": [
+					    { "id": "759", "text": "ТУ-8Г", "checked": true }, 		
+						{ "id": "647", "text": "ТУ6А", "checked": true }, 		
+						{ "id": "648", "text": "ТУ7А", "checked": true }
+					]
+				}
+			] 
+		}
+	]
+}
