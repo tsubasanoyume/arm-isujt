@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "totalCount": 1,
+  "data": [
+    {
+      "time_section": "2022-02-10 11:35:35 +0300",
+      "time_start": "2022-02-11 08:40:00 +0300",
+      "time_end": "2022-02-11 13:20:00 +0300",
+      "period": "4.67",
+      "descr_place": "НЮКЖА — МАГДАГАЧИ",
+      "descr_job": ", , , "
+    }
+  ]
+}

@@ -1,0 +1,1009 @@
+{
+  "success": true,
+  "totalCount": 59,
+  "data": [
+    {
+      "id": 250251066210,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 15.03.2022</b><br> Регулирование на 15.03.2022 не согласовано диспетчером СДРЛ.",
+      "recieve_time": "2022-03-14 14:10:01 +0300",
+      "status": "complete",
+      "linked_obj_id": 250251054654,
+      "transition": {
+        "revision": 250251054654,
+        "date": "15.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 250251052286,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 15.03.2022</b>",
+      "recieve_time": "2022-03-14 13:30:05 +0300",
+      "status": "complete",
+      "linked_obj_id": 250251031586,
+      "transition": {
+        "revision": 250251031586,
+        "date": "15.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 250250372399,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 14.03.2022</b><br> Регулирование на 14.03.2022 не согласовано диспетчером СДРЛ.",
+      "recieve_time": "2022-03-13 14:10:01 +0300",
+      "status": "complete",
+      "linked_obj_id": 250250360626,
+      "transition": {
+        "revision": 250250360626,
+        "date": "14.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 250250358953,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 14.03.2022</b>",
+      "recieve_time": "2022-03-13 13:30:05 +0300",
+      "status": "complete",
+      "linked_obj_id": 250250337643,
+      "transition": {
+        "revision": 250250337643,
+        "date": "14.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 240259686749,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 13.03.2022</b><br> Регулирование на 13.03.2022 не согласовано диспетчером СДРЛ.",
+      "recieve_time": "2022-03-12 14:10:01 +0300",
+      "status": "complete",
+      "linked_obj_id": 240259675975,
+      "transition": {
+        "revision": 240259675975,
+        "date": "13.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 240259670841,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 13.03.2022</b>",
+      "recieve_time": "2022-03-12 13:30:06 +0300",
+      "status": "complete",
+      "linked_obj_id": 240259650362,
+      "transition": {
+        "revision": 240259650362,
+        "date": "13.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 240258615880,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 12.03.2022</b><br> Регулирование на 12.03.2022 не согласовано диспетчером СДРЛ.",
+      "recieve_time": "2022-03-11 14:10:01 +0300",
+      "status": "complete",
+      "linked_obj_id": 240258577757,
+      "transition": {
+        "revision": 240258577757,
+        "date": "12.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 240258566542,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 12.03.2022</b>",
+      "recieve_time": "2022-03-11 13:30:05 +0300",
+      "status": "complete",
+      "linked_obj_id": 240258498975,
+      "transition": {
+        "revision": 240258498975,
+        "date": "12.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790218855243,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 09.03.2022</b><br> Регулирование на 09.03.2022 согласовано диспетчером СДРЛ в 13:45.",
+      "recieve_time": "2022-03-08 13:45:05 +0300",
+      "status": "complete",
+      "linked_obj_id": 790218854703,
+      "transition": {
+        "revision": 790218854703,
+        "date": "09.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790218840561,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 09.03.2022</b><br>Нормирование на 09.03.2022 согласовано диспетчером СДРЛ в 13:09.",
+      "recieve_time": "2022-03-08 13:09:36 +0300",
+      "status": "complete",
+      "linked_obj_id": 790218830066,
+      "transition": {
+        "revision": 790218830066,
+        "date": "09.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790218181955,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 08.03.2022</b><br> Регулирование на 08.03.2022 согласовано диспетчером СДРЛ в 14:01.",
+      "recieve_time": "2022-03-07 14:01:02 +0300",
+      "status": "complete",
+      "linked_obj_id": 790218175363,
+      "transition": {
+        "revision": 790218175363,
+        "date": "08.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790218159407,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 08.03.2022</b><br>Нормирование на 08.03.2022 согласовано диспетчером СДРЛ в 13:00.",
+      "recieve_time": "2022-03-07 13:00:17 +0300",
+      "status": "complete",
+      "linked_obj_id": 790218151811,
+      "transition": {
+        "revision": 790218151811,
+        "date": "08.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190206118672,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 07.03.2022</b><br> Регулирование на 07.03.2022 согласовано диспетчером СДРЛ в 13:48.",
+      "recieve_time": "2022-03-06 13:48:40 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190206117601,
+      "transition": {
+        "revision": 1190206117601,
+        "date": "07.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190206099009,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 07.03.2022</b><br>Нормирование на 07.03.2022 согласовано диспетчером СДРЛ в 12:54.",
+      "recieve_time": "2022-03-06 12:55:00 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190206093581,
+      "transition": {
+        "revision": 1190206093581,
+        "date": "07.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190205451518,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 06.03.2022</b><br> Регулирование на 06.03.2022 согласовано диспетчером СДРЛ в 13:48.",
+      "recieve_time": "2022-03-05 13:48:27 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190205446990,
+      "transition": {
+        "revision": 1190205446990,
+        "date": "06.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190205437119,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 06.03.2022</b><br>Нормирование на 06.03.2022 согласовано диспетчером СДРЛ в 13:13.",
+      "recieve_time": "2022-03-05 13:14:04 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190205423753,
+      "transition": {
+        "revision": 1190205423753,
+        "date": "06.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790217462770,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 05.03.2022</b><br> Регулирование на 05.03.2022 согласовано диспетчером СДРЛ в 13:43.",
+      "recieve_time": "2022-03-04 13:43:34 +0300",
+      "status": "complete",
+      "linked_obj_id": 790217459696,
+      "transition": {
+        "revision": 790217459696,
+        "date": "05.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790217447459,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 05.03.2022</b><br>Нормирование на 05.03.2022 согласовано диспетчером СДРЛ в 13:08.",
+      "recieve_time": "2022-03-04 13:08:18 +0300",
+      "status": "complete",
+      "linked_obj_id": 790217437797,
+      "transition": {
+        "revision": 790217437797,
+        "date": "05.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790216782696,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Повторно утвердите показатели регулирования на 04.03.2022</b><br> Регулирование на 04.03.2022 повторно согласовано диспетчером СДРЛ в 14:10. ",
+      "recieve_time": "2022-03-03 14:11:28 +0300",
+      "status": "complete",
+      "linked_obj_id": 790216773879,
+      "transition": {
+        "revision": 790216773879,
+        "date": "04.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790216782691,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 04.03.2022</b><br> Регулирование на 04.03.2022 не согласовано диспетчером СДРЛ.",
+      "recieve_time": "2022-03-03 14:10:01 +0300",
+      "status": "complete",
+      "linked_obj_id": 790216773879,
+      "transition": {
+        "revision": 790216773879,
+        "date": "04.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790216756254,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 04.03.2022</b><br>Нормирование на 04.03.2022 согласовано диспетчером СДРЛ в 12:59.",
+      "recieve_time": "2022-03-03 12:59:39 +0300",
+      "status": "complete",
+      "linked_obj_id": 790216746832,
+      "transition": {
+        "revision": 790216746832,
+        "date": "04.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190204427022,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 03.03.2022</b><br> Регулирование на 03.03.2022 согласовано диспетчером СДРЛ в 13:56.",
+      "recieve_time": "2022-03-02 13:56:06 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190204420503,
+      "transition": {
+        "revision": 1190204420503,
+        "date": "03.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190204410127,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 03.03.2022</b><br>Нормирование на 03.03.2022 согласовано диспетчером СДРЛ в 13:15.",
+      "recieve_time": "2022-03-02 13:15:59 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190204395058,
+      "transition": {
+        "revision": 1190204395058,
+        "date": "03.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190203742451,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 02.03.2022</b><br> Регулирование на 02.03.2022 согласовано диспетчером СДРЛ в 14:03.",
+      "recieve_time": "2022-03-01 14:03:31 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190203735299,
+      "transition": {
+        "revision": 1190203735299,
+        "date": "02.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190203724404,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 02.03.2022</b><br>Нормирование на 02.03.2022 согласовано диспетчером СДРЛ в 13:17.",
+      "recieve_time": "2022-03-01 13:17:28 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190203707890,
+      "transition": {
+        "revision": 1190203707890,
+        "date": "02.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790216053919,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 01.03.2022</b><br> Регулирование на 01.03.2022 согласовано диспетчером СДРЛ в 13:51.",
+      "recieve_time": "2022-02-28 13:51:19 +0300",
+      "status": "complete",
+      "linked_obj_id": 790216052904,
+      "transition": {
+        "revision": 790216052904,
+        "date": "01.03.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790216049857,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 01.03.2022</b><br>Нормирование на 01.03.2022 согласовано диспетчером СДРЛ в 13:00.",
+      "recieve_time": "2022-02-28 13:00:06 +0300",
+      "status": "complete",
+      "linked_obj_id": 790216041826,
+      "transition": {
+        "revision": 790216041826,
+        "date": "01.03.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190203049919,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 28.02.2022</b><br> Регулирование на 28.02.2022 согласовано диспетчером СДРЛ в 14:02.",
+      "recieve_time": "2022-02-27 14:02:26 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190203041035,
+      "transition": {
+        "revision": 1190203041035,
+        "date": "28.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190203030836,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 28.02.2022</b><br>Нормирование на 28.02.2022 согласовано диспетчером СДРЛ в 13:18.",
+      "recieve_time": "2022-02-27 13:18:25 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190203016559,
+      "transition": {
+        "revision": 1190203016559,
+        "date": "28.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790215367157,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 27.02.2022</b><br> Регулирование на 27.02.2022 согласовано диспетчером СДРЛ в 13:53.",
+      "recieve_time": "2022-02-26 13:53:32 +0300",
+      "status": "complete",
+      "linked_obj_id": 790215361647,
+      "transition": {
+        "revision": 790215361647,
+        "date": "27.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790215350754,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 27.02.2022</b><br>Нормирование на 27.02.2022 согласовано диспетчером СДРЛ в 13:07.",
+      "recieve_time": "2022-02-26 13:07:34 +0300",
+      "status": "complete",
+      "linked_obj_id": 790215340954,
+      "transition": {
+        "revision": 790215340954,
+        "date": "27.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790214668366,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 26.02.2022</b><br> Регулирование на 26.02.2022 согласовано диспетчером СДРЛ в 13:50.",
+      "recieve_time": "2022-02-25 13:50:00 +0300",
+      "status": "complete",
+      "linked_obj_id": 790214664482,
+      "transition": {
+        "revision": 790214664482,
+        "date": "26.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790214654624,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 26.02.2022</b><br>Нормирование на 26.02.2022 согласовано диспетчером СДРЛ в 13:10.",
+      "recieve_time": "2022-02-25 13:11:03 +0300",
+      "status": "complete",
+      "linked_obj_id": 790214642897,
+      "transition": {
+        "revision": 790214642897,
+        "date": "26.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790214019928,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 25.02.2022</b><br> Регулирование на 25.02.2022 согласовано диспетчером СДРЛ в 13:50.",
+      "recieve_time": "2022-02-24 13:50:56 +0300",
+      "status": "complete",
+      "linked_obj_id": 790214013951,
+      "transition": {
+        "revision": 790214013951,
+        "date": "25.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790213999541,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 25.02.2022</b><br>Нормирование на 25.02.2022 согласовано диспетчером СДРЛ в 13:00.",
+      "recieve_time": "2022-02-24 13:00:44 +0300",
+      "status": "complete",
+      "linked_obj_id": 790213991412,
+      "transition": {
+        "revision": 790213991412,
+        "date": "25.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790213324859,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 24.02.2022</b><br> Регулирование на 24.02.2022 согласовано диспетчером СДРЛ в 13:51.",
+      "recieve_time": "2022-02-23 13:51:55 +0300",
+      "status": "complete",
+      "linked_obj_id": 790213319343,
+      "transition": {
+        "revision": 790213319343,
+        "date": "24.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790213307234,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 24.02.2022</b><br>Нормирование на 24.02.2022 согласовано диспетчером СДРЛ в 13:07.",
+      "recieve_time": "2022-02-23 13:07:30 +0300",
+      "status": "complete",
+      "linked_obj_id": 790213298251,
+      "transition": {
+        "revision": 790213298251,
+        "date": "24.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790212639445,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Повторно утвердите показатели регулирования на 23.02.2022</b><br> Регулирование на 23.02.2022 повторно согласовано диспетчером СДРЛ в 13:55. ",
+      "recieve_time": "2022-02-22 13:55:06 +0300",
+      "status": "complete",
+      "linked_obj_id": 790212633741,
+      "transition": {
+        "revision": 790212633741,
+        "date": "23.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790212639225,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 23.02.2022</b><br> Регулирование на 23.02.2022 согласовано диспетчером СДРЛ в 13:51.",
+      "recieve_time": "2022-02-22 13:51:48 +0300",
+      "status": "complete",
+      "linked_obj_id": 790212633741,
+      "transition": {
+        "revision": 790212633741,
+        "date": "23.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790212631707,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Повторно утвердите показатели нормирования на 23.02.2022</b><br>Нормирование на 23.02.2022 повторно согласовано диспетчером СДРЛ в 13:39.",
+      "recieve_time": "2022-02-22 13:39:18 +0300",
+      "status": "complete",
+      "linked_obj_id": 790212608907,
+      "transition": {
+        "revision": 790212608907,
+        "date": "23.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790212627615,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 23.02.2022</b>",
+      "recieve_time": "2022-02-22 13:30:05 +0300",
+      "status": "complete",
+      "linked_obj_id": 790212608907,
+      "transition": {
+        "revision": 790212608907,
+        "date": "23.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190202227352,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 22.02.2022</b><br> Регулирование на 22.02.2022 согласовано диспетчером СДРЛ в 13:43.",
+      "recieve_time": "2022-02-21 13:43:41 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190202226568,
+      "transition": {
+        "revision": 1190202226568,
+        "date": "22.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190202198674,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 22.02.2022</b><br>Нормирование на 22.02.2022 согласовано диспетчером СДРЛ в 13:12.",
+      "recieve_time": "2022-02-21 13:12:39 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190202167074,
+      "transition": {
+        "revision": 1190202167074,
+        "date": "22.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790212019449,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 21.02.2022</b><br> Регулирование на 21.02.2022 согласовано диспетчером СДРЛ в 13:43.",
+      "recieve_time": "2022-02-20 13:43:02 +0300",
+      "status": "complete",
+      "linked_obj_id": 790212016736,
+      "transition": {
+        "revision": 790212016736,
+        "date": "21.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790212000162,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 21.02.2022</b><br>Нормирование на 21.02.2022 согласовано диспетчером СДРЛ в 12:54.",
+      "recieve_time": "2022-02-20 12:54:51 +0300",
+      "status": "complete",
+      "linked_obj_id": 790211993311,
+      "transition": {
+        "revision": 790211993311,
+        "date": "21.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190201451741,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 20.02.2022</b><br> Регулирование на 20.02.2022 согласовано диспетчером СДРЛ в 13:46.",
+      "recieve_time": "2022-02-19 13:46:14 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190201449454,
+      "transition": {
+        "revision": 1190201449454,
+        "date": "20.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190201442119,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 20.02.2022</b><br>Нормирование на 20.02.2022 согласовано диспетчером СДРЛ в 13:27.",
+      "recieve_time": "2022-02-19 13:27:43 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190201424320,
+      "transition": {
+        "revision": 1190201424320,
+        "date": "20.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190200774623,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 19.02.2022</b><br> Регулирование на 19.02.2022 согласовано диспетчером СДРЛ в 13:58.",
+      "recieve_time": "2022-02-18 13:58:04 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190200768238,
+      "transition": {
+        "revision": 1190200768238,
+        "date": "19.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190200760443,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 19.02.2022</b><br>Нормирование на 19.02.2022 согласовано диспетчером СДРЛ в 13:22.",
+      "recieve_time": "2022-02-18 13:22:14 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190200745540,
+      "transition": {
+        "revision": 1190200745540,
+        "date": "19.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190200091034,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 18.02.2022</b><br> Регулирование на 18.02.2022 согласовано диспетчером СДРЛ в 13:42.",
+      "recieve_time": "2022-02-17 13:42:19 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190200091029,
+      "transition": {
+        "revision": 1190200091029,
+        "date": "18.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1190200082159,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 18.02.2022</b><br>Нормирование на 18.02.2022 согласовано диспетчером СДРЛ в 13:16.",
+      "recieve_time": "2022-02-17 13:16:51 +0300",
+      "status": "complete",
+      "linked_obj_id": 1190200065637,
+      "transition": {
+        "revision": 1190200065637,
+        "date": "18.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1180209394096,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 17.02.2022</b><br> Регулирование на 17.02.2022 согласовано диспетчером СДРЛ в 13:42.",
+      "recieve_time": "2022-02-16 13:42:27 +0300",
+      "status": "complete",
+      "linked_obj_id": 1180209394090,
+      "transition": {
+        "revision": 1180209394090,
+        "date": "17.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1180209384098,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 17.02.2022</b><br>Нормирование на 17.02.2022 согласовано диспетчером СДРЛ в 13:01.",
+      "recieve_time": "2022-02-16 13:02:02 +0300",
+      "status": "complete",
+      "linked_obj_id": 1180209380287,
+      "transition": {
+        "revision": 1180209380287,
+        "date": "17.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1180208730479,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 16.02.2022</b><br> Регулирование на 16.02.2022 согласовано диспетчером СДРЛ в 13:52.",
+      "recieve_time": "2022-02-15 13:52:31 +0300",
+      "status": "complete",
+      "linked_obj_id": 1180208724892,
+      "transition": {
+        "revision": 1180208724892,
+        "date": "16.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 1180208711415,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 16.02.2022</b><br>Нормирование на 16.02.2022 согласовано диспетчером СДРЛ в 13:08.",
+      "recieve_time": "2022-02-15 13:08:45 +0300",
+      "status": "complete",
+      "linked_obj_id": 1180208701250,
+      "transition": {
+        "revision": 1180208701250,
+        "date": "16.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790211284363,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 15.02.2022</b><br> Регулирование на 15.02.2022 согласовано диспетчером СДРЛ в 13:48.",
+      "recieve_time": "2022-02-14 13:48:14 +0300",
+      "status": "complete",
+      "linked_obj_id": 790211282986,
+      "transition": {
+        "revision": 790211282986,
+        "date": "15.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790211271378,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 15.02.2022</b><br>Нормирование на 15.02.2022 согласовано диспетчером СДРЛ в 13:16.",
+      "recieve_time": "2022-02-14 13:16:27 +0300",
+      "status": "complete",
+      "linked_obj_id": 790211256939,
+      "transition": {
+        "revision": 790211256939,
+        "date": "15.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790210605295,
+      "header": "Регулирование. ЦУП",
+      "body": "<b>Утвердите показатели регулирования на 14.02.2022</b><br> Регулирование на 14.02.2022 согласовано диспетчером СДРЛ в 13:40.",
+      "recieve_time": "2022-02-13 13:40:42 +0300",
+      "status": "complete",
+      "linked_obj_id": 790210604534,
+      "transition": {
+        "revision": 790210604534,
+        "date": "14.02.2022",
+        "horizon": null,
+        "category": "regulation",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    },
+    {
+      "id": 790210595496,
+      "header": "Нормирование. ЦУП",
+      "body": "<b>Утвердите показатели нормирования на 14.02.2022</b><br>Нормирование на 14.02.2022 согласовано диспетчером СДРЛ в 13:11.",
+      "recieve_time": "2022-02-13 13:11:44 +0300",
+      "status": "complete",
+      "linked_obj_id": 790210582740,
+      "transition": {
+        "revision": 790210582740,
+        "date": "14.02.2022",
+        "horizon": null,
+        "category": "normalization",
+        "method": null
+      },
+      "type_confirmed": "Утвердить",
+      "showCancelButton": true
+    }
+  ]
+}
