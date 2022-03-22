@@ -1,0 +1,26 @@
+@page{size:landscape;}
+div.a4{position:relative; width:891px; margin-left:50%; left:-430px;}
+
+div.top > div.left{width:200px; text-align:left;}
+div.top > div.center{width:490px; text-align:center;}
+div.top > div.right {width:200px; text-align:right;}
+div.top.top2{padding-top:16px; font-family: font_tahoma_b; font-size:14px;}
+div.top._express > div.left{width:0px;}
+div.top._express > div.center{width:0px;}
+div.top._express > div.right{width:890px;}
+
+table.planning1{}
+table.planning1 td{}
+table.planning1 td b{font-family: font_timesnewroman_b;}
+table.planning1 td.td1_1{width:40px;}
+table.planning1 td.td1_2{width:180px;}
+table.planning1 td.td1_3{width:140px;}
+table.planning1 td.td1_4{width:48px;}
+@media print {
+	div.a4{
+        margin: 0;
+        padding: 0;
+        top: 0;
+        left: 40;
+    }
+}
